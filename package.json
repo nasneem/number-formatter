@@ -1,0 +1,26 @@
+{
+  "name": "nodemolue_task",
+  "version": "1.0.0",
+  "description": "initial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasneem/number-formatter.git"
+  },
+  "author": "Nasneem S <nasneem.cse@gmail.com>",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/nasneem/number-formatter/issues"
+  },
+  "homepage": "https://github.com/nasneem/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
